@@ -10,3 +10,4 @@ If you want to change the output file it's the same process but you should chang
 
 The output file is not actually compressed, since every 0 and 1 inserted are encoded with 8 bits. 
 The program prints the coding for every character present in the .txt on standard output during its execution.
+It also evaluetes the entropy of the file and the expected length of the Huffman coding.
